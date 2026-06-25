@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gurmeet, an <a href="https://linkedin.com/in/Josh">IT Professional</a>!</h1>
+<h1>Hi, I'm Gurmeet, an <a href="https://linkedin.com/in/Gurmeet Singh">IT Professional</a>!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -14,4 +14,4 @@
 
 [<img align="left" alt="Gurmeet Singh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/gurmeet-singh-386667207
+[linkedin]: https://linkedin.com/in/Gurmeet Singh
