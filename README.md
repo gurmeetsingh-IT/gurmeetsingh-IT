@@ -14,4 +14,4 @@
 
 [<img align="left" alt="Gurmeet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[instagram]: https://www.instagram.com/Gurmeet Singh
+[linkedin]: www.linkedin.com/in/gurmeet-singh-386667207
