@@ -8,7 +8,7 @@
   - [osTicket: post installation](https://github.com/gurmeetsingh-IT/osTicket-post-installation)
 - <b>osTicket: Ticket Lifecycle</b>
   - [osTicket: Ticket Lifecycle](https://github.com/gurmeetsingh-IT/osTicket--Ticket-Lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Inspecting Network Protocols with Wireshark</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gurmeetsingh-IT/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
