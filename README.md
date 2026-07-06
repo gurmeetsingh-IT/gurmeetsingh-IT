@@ -4,9 +4,10 @@
 
 - <b>osTicket: Prerequisites and installation</b>
   - [osTicket: Ticket Pre requisites](https://github.com/gurmeetsingh-IT/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gurmeetsingh-IT/azure-network-protocols)
 - <b>osTicket: Post installation</b>
   - [osTicket: post installation](https://github.com/gurmeetsingh-IT/osTicket-post-installation)
+- <b>Microsoft Azure</b>
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gurmeetsingh-IT/azure-network-protocols)
+
 <h2>🤳Connect with me:</h2>
 [linkedin]: www.linkedin.com/in/gurmeet-singh-386667207
