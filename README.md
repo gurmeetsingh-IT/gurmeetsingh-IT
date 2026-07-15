@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-  - [osTicket: Ticket Pre requisites](https://github.com/gurmeetsingh-IT/ticket-lifecycle)
+  - [osTicket: Ticket Pre requisites](https://github.com/gurmeetsingh-IT/osticket-prereqs-install)
 
   - [osTicket: post installation](https://github.com/gurmeetsingh-IT/osTicket-post-installation)
 
